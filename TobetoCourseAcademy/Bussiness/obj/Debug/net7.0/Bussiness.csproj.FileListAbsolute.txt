@@ -1,0 +1,17 @@
+C:\Users\Erdem\Desktop\CSharpCourse\TobetoCourseAcademy\Bussiness\bin\Debug\net7.0\Bussiness.deps.json
+C:\Users\Erdem\Desktop\CSharpCourse\TobetoCourseAcademy\Bussiness\bin\Debug\net7.0\Bussiness.dll
+C:\Users\Erdem\Desktop\CSharpCourse\TobetoCourseAcademy\Bussiness\bin\Debug\net7.0\Bussiness.pdb
+C:\Users\Erdem\Desktop\CSharpCourse\TobetoCourseAcademy\Bussiness\bin\Debug\net7.0\DataAccess.dll
+C:\Users\Erdem\Desktop\CSharpCourse\TobetoCourseAcademy\Bussiness\bin\Debug\net7.0\Entities.dll
+C:\Users\Erdem\Desktop\CSharpCourse\TobetoCourseAcademy\Bussiness\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\Erdem\Desktop\CSharpCourse\TobetoCourseAcademy\Bussiness\bin\Debug\net7.0\Entities.pdb
+C:\Users\Erdem\Desktop\CSharpCourse\TobetoCourseAcademy\Bussiness\obj\Debug\net7.0\Bussiness.csproj.AssemblyReference.cache
+C:\Users\Erdem\Desktop\CSharpCourse\TobetoCourseAcademy\Bussiness\obj\Debug\net7.0\Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erdem\Desktop\CSharpCourse\TobetoCourseAcademy\Bussiness\obj\Debug\net7.0\Bussiness.AssemblyInfoInputs.cache
+C:\Users\Erdem\Desktop\CSharpCourse\TobetoCourseAcademy\Bussiness\obj\Debug\net7.0\Bussiness.AssemblyInfo.cs
+C:\Users\Erdem\Desktop\CSharpCourse\TobetoCourseAcademy\Bussiness\obj\Debug\net7.0\Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Erdem\Desktop\CSharpCourse\TobetoCourseAcademy\Bussiness\obj\Debug\net7.0\Bussiness.csproj.CopyComplete
+C:\Users\Erdem\Desktop\CSharpCourse\TobetoCourseAcademy\Bussiness\obj\Debug\net7.0\Bussiness.dll
+C:\Users\Erdem\Desktop\CSharpCourse\TobetoCourseAcademy\Bussiness\obj\Debug\net7.0\refint\Bussiness.dll
+C:\Users\Erdem\Desktop\CSharpCourse\TobetoCourseAcademy\Bussiness\obj\Debug\net7.0\Bussiness.pdb
+C:\Users\Erdem\Desktop\CSharpCourse\TobetoCourseAcademy\Bussiness\obj\Debug\net7.0\ref\Bussiness.dll
